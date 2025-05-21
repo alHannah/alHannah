@@ -9,7 +9,7 @@
 - 💻 I recently completed a **3-month internship** as a **Backend Developer**.
 - 🔍 I love working with data, building APIs, and exploring Machine Learning.
 - 🌱 Currently sharpening my skills in full-stack development and AI.
-- 📫 You can reach me via [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/al-hannah-simsuangco-1a155a166/)) *(update with your actual URL)*
+- 📫 You can reach me via [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/al-hannah-simsuangco-1a155a166/))
 
 ---
 
