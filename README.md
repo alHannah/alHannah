@@ -6,10 +6,11 @@
 ---
 
 🎓 **About Me**
-- 💻 I recently completed a **3-month internship** as a **Backend Developer**.
-- 🔍 I love working with data, building APIs, and exploring Machine Learning.
-- 🌱 Currently sharpening my skills in full-stack development and AI.
-- 📫 You can reach me via [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/al-hannah-simsuangco-1a155a166/))
+- 💻 I recently completed a **2-months internship** as a **Backend Developer**.  
+- 🔍 I love working with data, building APIs, and exploring Machine Learning.  
+- 🌱 Currently sharpening my skills in full-stack and Application Development also AI.  
+- 📫 You can reach me via [LinkedIn](https://www.linkedin.com/in/al-hannah-simsuangco-1a155a166/)  
+- 📄 [View My Resume (PDF)](https://drive.google.com/file/d/11x03cIaXvAn1VEijj83YnIA4nu2b8dx0/view?usp=sharing)
 
 ---
 
